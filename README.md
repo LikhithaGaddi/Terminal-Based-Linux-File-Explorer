@@ -51,5 +51,5 @@ It has the following functionalities -
   
   To execute the application
   
-  g++ main.cpp
-  ./a.out
+   - g++ main.cpp
+   - ./a.out
