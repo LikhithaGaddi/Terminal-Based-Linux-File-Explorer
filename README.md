@@ -47,3 +47,9 @@ It has the following functionalities -
   - Goto - ‘goto <location>’
     - Eg - goto <directory_path>
     - Absolute path wrt application root will be given
+  
+  
+  To execute the application
+  
+  g++ main.cpp
+  ./a.out
