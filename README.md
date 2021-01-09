@@ -53,3 +53,5 @@ It has the following functionalities -
   
    - g++ main.cpp
    - ./a.out
+   
+  Platform : linux
